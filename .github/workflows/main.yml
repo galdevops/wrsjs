@@ -15,5 +15,5 @@ jobs:
       run: |
          chmod +x predeploy.sh
          ls
-         sh predploy.sh
+         sh predeploy.sh
       shell: bash
